@@ -1,0 +1,66 @@
+{
+    "results": [
+        {
+            "gender": "male",
+            "name": {
+                "title": "Mr",
+                "first": "Blake",
+                "last": "Edwards"
+            },
+            "location": {
+                "street": {
+                    "number": 2451,
+                    "name": "Abbotts Way"
+                },
+                "city": "Masterton",
+                "state": "Wellington",
+                "country": "New Zealand",
+                "postcode": 50857,
+                "coordinates": {
+                    "latitude": "52.9719",
+                    "longitude": "-130.2778"
+                },
+                "timezone": {
+                    "offset": "0:00",
+                    "description": "Western Europe Time, London, Lisbon, Casablanca"
+                }
+            },
+            "email": "blake.edwards@example.com",
+            "login": {
+                "uuid": "226307e7-4e9d-4861-8615-366ebd5bf01c",
+                "username": "beautifulgoose312",
+                "password": "gawker",
+                "salt": "s6J2Fxgb",
+                "md5": "017e92a664ff044a052e2b761fd04fa3",
+                "sha1": "8bfa73e15321e10b153d761513ad377e59c1c900",
+                "sha256": "0cb3ced1d909a1a3b07547df6272662debca4b462b2e239bedd5fe23681d1dd7"
+            },
+            "dob": {
+                "date": "1966-09-30T15:40:12.385Z",
+                "age": 56
+            },
+            "registered": {
+                "date": "2010-02-20T04:37:59.390Z",
+                "age": 13
+            },
+            "phone": "(783)-690-0781",
+            "cell": "(064)-263-3687",
+            "id": {
+                "name": "",
+                "value": null
+            },
+            "picture": {
+                "large": "https://randomuser.me/api/portraits/men/90.jpg",
+                "medium": "https://randomuser.me/api/portraits/med/men/90.jpg",
+                "thumbnail": "https://randomuser.me/api/portraits/thumb/men/90.jpg"
+            },
+            "nat": "NZ"
+        }
+    ],
+    "info": {
+        "seed": "d63a46318a358512",
+        "results": 1,
+        "page": 1,
+        "version": "1.4"
+    }
+}
